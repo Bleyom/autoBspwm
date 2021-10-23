@@ -103,7 +103,7 @@ function bspwm () {
 }
 
 function stuff () {
-    yay -S polybar rofi picom firefox zsh tmux lsd gnome-terminal
+    yay -S polybar rofi picom firefox zsh tmux lsd gnome-terminal kitty
 }
 
 function aur-helper () {
