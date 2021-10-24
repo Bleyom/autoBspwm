@@ -99,7 +99,7 @@ function dependencies () {
 }
 
 function bspwm () {
-    yay -S bspwm sxhkdrc
+    yay -S bspwm sxhkd
 }
 
 function stuff () {
