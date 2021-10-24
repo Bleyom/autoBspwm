@@ -137,7 +137,7 @@ function config () {
     mv ~/.config/nvim ~/.config/nvim-backup 2>/dev/null
     mv ~/.config/rofi ~/.config/rofi-backup 2>/dev/null
     mv ~/.config/picom ~/.config/picom-backup 2>/dev/null
-    mkdir ~/.config/polybar
+    mkdir -p ~/.config/polybar
     mkdir ~/.config/bspwm
     mkdir ~/.config/sxhkd
     mkdir ~/.config/bin
